@@ -2,6 +2,7 @@
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=vhehddl2212)](https://solved.ac/vhehddl2212)
 
 <h1>🔥 TECH STACKS </h1>
+<div align=center> 
   <img src="https://img.shields.io/badge/java-F7819F?style=for-the-badge&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
@@ -15,11 +16,15 @@
 
   
   <br>
-  
+</div>  
  <h1>⚙️ TOOLS  </h1> 
+ <div align=center> 
    <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
      <img src="https://img.shields.io/badge/intellij IDEA-5F04B4?style=for-the-badge&logo=intellij IDEA&logoColor=white">
        <img src="https://img.shields.io/badge/visual studio code-58ACFA?style=for-the-badge&logo=visual studio code&logoColor=white">
+   <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
+ </div>
+ 
 <!--
 **mingioes/mingioes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
