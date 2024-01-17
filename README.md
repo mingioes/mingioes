@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 ### I'm Kang Minseo and growing developer 🌱
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=vhehddl2212)](https://solved.ac/vhehddl2212)
 
