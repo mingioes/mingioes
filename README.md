@@ -26,10 +26,10 @@
    <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
  </div>
 
-<h1📨 SNS </h1> 
+<h1>👩‍💻 SNS </h1> 
  <a href="https://instagram.com/mingioes">
     <img 
-        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/mingioes"
+        src="http://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=Instagram&link=https://instagram.com/mingioes"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 <!--
