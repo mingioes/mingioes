@@ -18,7 +18,7 @@
   
  <h1>⚙️ TOOLS  </h1> 
    <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-     <img src="https://img.shields.io/badge/intellij-5F04B4?style=for-the-badge&logo=intellij&logoColor=white">
+     <img src="https://img.shields.io/badge/intellij IDEA-5F04B4?style=for-the-badge&logo=intellij IDEA&logoColor=white">
        <img src="https://img.shields.io/badge/visual studio code-58ACFA?style=for-the-badge&logo=visual studio code&logoColor=white">
 <!--
 **mingioes/mingioes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
